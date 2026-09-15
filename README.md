@@ -61,6 +61,8 @@ Contributions welcome — see [Contributing](#contributing).
 
 - [LP Army](https://www.lparmy.com) — The largest Meteora LP community; education, tooling, and the "LP Army" ethos.
 - [Meteora Discord](https://discord.gg/meteora) — Official protocol community.
+- [HostDeFi](https://hostdefi.com) - Token-safety scanner and multi-chain DEX front-end: free A+–F risk grades on Solana and 8 EVM chains plus a keyless REST API.
+
 
 ## Contributing
 
